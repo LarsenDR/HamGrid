@@ -1,2 +1,2 @@
 # HamGrid
-Program to convert Lat, Long to Hamgrid coordinates
+Go program to convert Latitude, Longitude to Grid coordinates
